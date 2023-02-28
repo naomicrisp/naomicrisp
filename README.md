@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world! 👋
+I'm a coding novice breaking into the world of gits and githubs with School of Code! 
+
+My name is naomi and my pronouns are she/her
+
 
 <!--
 **naomicrisp/naomicrisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
