@@ -1,7 +1,9 @@
-### Hello world! 👋
+### Hello world!👋 I'm Naomi! 
+
 I'm a coding novice breaking into the world of gits and githubs with School of Code! 
 
-My name is naomi and my pronouns are she/her
+# Languages and Tools:
+javascript python react jest html5 css3 nodejs git
 
 
 <!--
