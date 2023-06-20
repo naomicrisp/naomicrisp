@@ -1,8 +1,8 @@
-### Hello world!👋 I'm Naomi! 
+## Hello world!👋 I'm Naomi! 
 
 I'm a coding novice breaking into the world of gits and githubs with School of Code! 
 
-# Languages and Tools:
+#### Languages and Tools:
 
 
 
