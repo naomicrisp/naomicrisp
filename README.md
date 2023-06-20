@@ -3,7 +3,7 @@
 I'm a coding novice breaking into the world of gits and githubs with School of Code! 
 
 # Languages and Tools:
-javascript python react jest html5 css3 nodejs git
+
 
 
 <!--
