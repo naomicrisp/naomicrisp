@@ -6,10 +6,10 @@ Hi 👋 My name is Naomi!
 
 * 🌍  I'm based in Brighton  & open to work in Spain!
 * ✉️  You can contact me at [naomicrisp2@gmail.com](mailto:naomicrisp2@gmail.com)
-* 🚀  I'm currently working on [Kindr: (my final project at School of Code)](http://kindr.netlify.app/)
+* 🚀  I'm currently working on [Kindr](http://kindr.netlify.app/): my final project at School of Code
 * 🧠  I'm learning full stack web development with a focus on front-end and user interface
 * 🤝  I'm open to collaborating on anything! I'm particularly keen to build my design portfolio
-* ⚡  I'm language nerd and pun-lover so I can guarantee we'll have the best team name in the hackathon
+* ⚡  I'm a language nerd and pun-lover so I can guarantee we'll have the best team name in the hackathon
 
 ### Skills
 
